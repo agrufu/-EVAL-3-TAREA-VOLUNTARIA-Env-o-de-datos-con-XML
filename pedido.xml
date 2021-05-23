@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<pedido>
+    <articulo>
+        <nombre>Lápiz</nombre>
+        <marca>A</marca>
+        <color>negro</color>
+        <cantidad>30</cantidad>
+    </articulo>
+    <articulo>
+        <nombre>Block</nombre>
+        <marca>B</marca>
+        <color>azul</color>
+        <cantidad>20</cantidad>
+    </articulo>
+    <articulo>
+        <nombre>Bolígrafo</nombre>
+        <marca>C</marca>
+        <color>verde</color>
+        <cantidad>40</cantidad>
+    </articulo>
+    <articulo>
+        <nombre>Bolígrafo</nombre>
+        <marca>D</marca>
+        <color>negro</color>
+        <cantidad>20</cantidad>
+    </articulo>
+</pedido>
